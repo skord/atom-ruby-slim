@@ -1,6 +1,6 @@
 {
   "name": "ruby-slim",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": false,
   "description": "slim template support",
   "repository": "https://github.com/skord/atom-ruby-slim",
@@ -8,6 +8,5 @@
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
